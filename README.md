@@ -3,7 +3,7 @@
 ![image](https://github.com/yosep2m430/Health_Beauty_Start-Up_Supply_Chain_Analysis/assets/102874665/db33c0a2-1ef4-4706-a380-a603c40e9a8b)
 
 
-*Spotify is a continuously growing audio streaming platform serving both artists and listeners worldwide. With increasing competition, Spotify has seen a slow decline in its market share. Our goal is to develop a data-driven recommendation system to better cater to users’ tastes.* 
+*Through a widespread use of social media, health and beauty have been continuously growing business. Our goal is to develop a data-driven recommendation to optimize the business by improving revenue and minimizing risks.* 
 
 ## 1.Data
 A CSV file containing product data, associated costs, revenues, and routes data was obtained from Kaggle:<br>
